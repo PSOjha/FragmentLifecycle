@@ -9,3 +9,5 @@ A fragment must always be embedded in an activity and the fragment’s life-cycl
 
 <img src="screenshot/Fragment-Life-Cycle-Example-In-Android-Studio.jpg">
 
+
+
